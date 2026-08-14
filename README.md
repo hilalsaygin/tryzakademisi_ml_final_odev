@@ -54,10 +54,10 @@ Optimize edilen modelin 114 örneklik hiç görülmemiş Test kümesi üzerindek
 ```text
 [40  2]  -> Malignant (0): 40 Doğru, 2 Yanlış
 [ 2 70]  -> Benign (1)   : 70 Doğru, 2 Yanlış
+```
 ---
 ### Kurulum ve Çalıştırma
 
-1. **Repoyu bilgisayarınıza klonlayın:**
    ```bash
    git clone [https://github.com/KULLANICI_ADINIZ/REPO.git]
    cd REPO
