@@ -62,4 +62,4 @@ Optimize edilen modelin 114 örneklik hiç görülmemiş Test kümesi üzerindek
    git clone [https://github.com/KULLANICI_ADINIZ/REPO.git]
    cd REPO
    pip install -r requirements.txt
-   python main.py-
+   python main.py
