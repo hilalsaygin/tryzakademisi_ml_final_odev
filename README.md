@@ -8,7 +8,7 @@ Projede veri analizi, veri ön işleme, öznitelik mühendisliği, model eğitim
 
 ## Proje Adımları ve Metodoloji
 
-1. **Veri İnceleme (EDA):** 569 satır ve 31 sütundan oluşan veri seti incelenmiş, 357 Benign (1) ve 212 Malignant (0) sınıf dağılımı tespit edilmiştir.
+1. **Veri İnceleme (EDA):** 569 satır ve 31 sütundan oluşan veri seti incelendi, 357 Benign (1) ve 212 Malignant (0) sınıf dağılımı tespit edildi.
 2. **Eksik ve Aykırı Değer Yönetimi:** Veri setinde eksik değer bulunmamaktadır. IQR (Interquartile Range) yöntemi kullanılarak uç değerler alt ve üst sınırlara baskılanmıştır (Winsorization).
 3. **Öznitelik Mühendisliği (Feature Engineering):**
    - `radius_to_texture_ratio` (Yarıçap / Doku oranı)
