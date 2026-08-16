@@ -1,4 +1,4 @@
-# Makine Öğrenmesi Final Ödevi — Meme Kanseri Teşhis Tahmini
+# Meme Kanseri Teşhis Tahmini -ML Pratik
 
 ## Projenin Amacı
 Bu proje, uçtan uca bir makine öğrenmesi sürecini (veri inceleme → veri
